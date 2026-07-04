@@ -1,0 +1,30 @@
+{
+  "name": "klarweg-audio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Klarweg — build-time German audio generation (Google Cloud TTS) + audioUrl helper",
+  "type": "module",
+  "scripts": {
+    "generate-audio": "tsx scripts/generate-audio.ts",
+    "generate-audio:force": "tsx scripts/generate-audio.ts --force",
+    "generate-audio:dry": "tsx scripts/generate-audio.ts --dry-run",
+    "verify-audio-sync": "tsx scripts/verify-audio-sync.ts",
+    "generate-a1-audio": "tsx scripts/generate-a1-audio.ts",
+    "generate-a1-audio:dry": "tsx scripts/generate-a1-audio.ts --dry-run",
+    "generate-a1-audio:stats": "tsx scripts/generate-a1-audio.ts --stats",
+"generate-a2-audio": "tsx scripts/generate-a2-audio.ts",
+"generate-a2-audio:dry": "tsx scripts/generate-a2-audio.ts --dry-run",
+"generate-a2-audio:stats": "tsx scripts/generate-a2-audio.ts --stats",
+    "verify-audio-coverage": "tsx scripts/verify-audio-coverage.ts",
+    "build-coverage": "tsx scripts/build-coverage-json.ts",
+    "prebuild": "npm run verify-audio-coverage"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "@types/node": "^22.9.0"
+  }
+}
