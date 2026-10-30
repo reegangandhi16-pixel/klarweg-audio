@@ -1,0 +1,434 @@
+{
+  "ähnlich": {
+    "female": "/audio/words/female/e6a96e3fc0bdf557.mp3",
+    "male": "/audio/words/male/e6a96e3fc0bdf557.mp3"
+  },
+  "allein": {
+    "female": "/audio/words/female/a9d5a11ce03dbf99.mp3",
+    "male": "/audio/words/male/a9d5a11ce03dbf99.mp3"
+  },
+  "als": {
+    "female": "/audio/words/female/ee7637bd419d4a00.mp3",
+    "male": "/audio/words/male/ee7637bd419d4a00.mp3"
+  },
+  "ankommen": {
+    "female": "/audio/words/female/916e3d393d7b03f6.mp3",
+    "male": "/audio/words/male/916e3d393d7b03f6.mp3"
+  },
+  "anrufen": {
+    "female": "/audio/words/female/48b5c857bebb092a.mp3",
+    "male": "/audio/words/male/48b5c857bebb092a.mp3"
+  },
+  "ausgehen": {
+    "female": "/audio/words/female/b81278b644ab5390.mp3",
+    "male": "/audio/words/male/b81278b644ab5390.mp3"
+  },
+  "außerhalb": {
+    "female": "/audio/words/female/dca8fdc39f1263a6.mp3",
+    "male": "/audio/words/male/dca8fdc39f1263a6.mp3"
+  },
+  "ausziehen": {
+    "female": "/audio/words/female/e89f70615ff8833b.mp3",
+    "male": "/audio/words/male/e89f70615ff8833b.mp3"
+  },
+  "bedienen": {
+    "female": "/audio/words/female/f0bcace271afa627.mp3",
+    "male": "/audio/words/male/f0bcace271afa627.mp3"
+  },
+  "bestehen": {
+    "female": "/audio/words/female/bb78143fca903adb.mp3",
+    "male": "/audio/words/male/bb78143fca903adb.mp3"
+  },
+  "bewegen": {
+    "female": "/audio/words/female/fe3990971026f30b.mp3",
+    "male": "/audio/words/male/fe3990971026f30b.mp3"
+  },
+  "brauchen": {
+    "female": "/audio/words/female/16a104d33063b4f6.mp3",
+    "male": "/audio/words/male/16a104d33063b4f6.mp3"
+  },
+  "da": {
+    "female": "/audio/words/female/aa58b21b01d6b8a9.mp3",
+    "male": "/audio/words/male/aa58b21b01d6b8a9.mp3"
+  },
+  "dabei sein": {
+    "female": "/audio/words/female/adf597eb673c496a.mp3",
+    "male": "/audio/words/male/adf597eb673c496a.mp3"
+  },
+  "damit": {
+    "female": "/audio/words/female/e9858a5a7dde8deb.mp3",
+    "male": "/audio/words/male/e9858a5a7dde8deb.mp3"
+  },
+  "danach": {
+    "female": "/audio/words/female/e6cebfa7ea082d92.mp3",
+    "male": "/audio/words/male/e6cebfa7ea082d92.mp3"
+  },
+  "das Ding": {
+    "female": "/audio/words/female/0eae76ca5fd9e1a8.mp3",
+    "male": "/audio/words/male/0eae76ca5fd9e1a8.mp3"
+  },
+  "das Fach": {
+    "female": "/audio/words/female/817ca9ddef866222.mp3",
+    "male": "/audio/words/male/817ca9ddef866222.mp3"
+  },
+  "das Feedback": {
+    "female": "/audio/words/female/90c4e8281b00bc3f.mp3",
+    "male": "/audio/words/male/90c4e8281b00bc3f.mp3"
+  },
+  "das Gericht": {
+    "female": "/audio/words/female/38f62bc12371cff4.mp3",
+    "male": "/audio/words/male/38f62bc12371cff4.mp3"
+  },
+  "das Gespräch": {
+    "female": "/audio/words/female/4832c567a9bb8c3d.mp3",
+    "male": "/audio/words/male/4832c567a9bb8c3d.mp3"
+  },
+  "das Netz": {
+    "female": "/audio/words/female/283c651f3e6ba3fd.mp3",
+    "male": "/audio/words/male/283c651f3e6ba3fd.mp3"
+  },
+  "das Stück": {
+    "female": "/audio/words/female/27cd5a12ee3e8cd4.mp3",
+    "male": "/audio/words/male/27cd5a12ee3e8cd4.mp3"
+  },
+  "das Thema": {
+    "female": "/audio/words/female/0fc28caef3470aef.mp3",
+    "male": "/audio/words/male/0fc28caef3470aef.mp3"
+  },
+  "das Vorstellungsgespräch": {
+    "female": "/audio/words/female/fc40a2817ed7a353.mp3",
+    "male": "/audio/words/male/fc40a2817ed7a353.mp3"
+  },
+  "das Wort": {
+    "female": "/audio/words/female/16f0d3892072462e.mp3",
+    "male": "/audio/words/male/16f0d3892072462e.mp3"
+  },
+  "der Anhang": {
+    "female": "/audio/words/female/0446538c154671bd.mp3",
+    "male": "/audio/words/male/0446538c154671bd.mp3"
+  },
+  "der Erfolg": {
+    "female": "/audio/words/female/8e894d1a42a9bb54.mp3",
+    "male": "/audio/words/male/8e894d1a42a9bb54.mp3"
+  },
+  "der Gedanke": {
+    "female": "/audio/words/female/1f6044eb9194819e.mp3",
+    "male": "/audio/words/male/1f6044eb9194819e.mp3"
+  },
+  "der Grund": {
+    "female": "/audio/words/female/c7baaffeb75df237.mp3",
+    "male": "/audio/words/male/c7baaffeb75df237.mp3"
+  },
+  "der Humor": {
+    "female": "/audio/words/female/fa9bb7091a5fd8e3.mp3",
+    "male": "/audio/words/male/fa9bb7091a5fd8e3.mp3"
+  },
+  "der Kollege": {
+    "female": "/audio/words/female/8d76dec7ecb6691d.mp3",
+    "male": "/audio/words/male/8d76dec7ecb6691d.mp3"
+  },
+  "der Kopf": {
+    "female": "/audio/words/female/0c892ef18b20c5cb.mp3",
+    "male": "/audio/words/male/0c892ef18b20c5cb.mp3"
+  },
+  "der Preis": {
+    "female": "/audio/words/female/51c30c9268b77c2c.mp3",
+    "male": "/audio/words/male/51c30c9268b77c2c.mp3"
+  },
+  "der Student": {
+    "female": "/audio/words/female/0bc3d512ba27fc05.mp3",
+    "male": "/audio/words/male/0bc3d512ba27fc05.mp3"
+  },
+  "der Traum": {
+    "female": "/audio/words/female/aa1f5abb674490d6.mp3",
+    "male": "/audio/words/male/aa1f5abb674490d6.mp3"
+  },
+  "der Vordergrund": {
+    "female": "/audio/words/female/43340b0eb02aa30e.mp3",
+    "male": "/audio/words/male/43340b0eb02aa30e.mp3"
+  },
+  "der Weg": {
+    "female": "/audio/words/female/119080787e7173b7.mp3",
+    "male": "/audio/words/male/119080787e7173b7.mp3"
+  },
+  "deshalb": {
+    "female": "/audio/words/female/e7161771a50251bf.mp3",
+    "male": "/audio/words/male/e7161771a50251bf.mp3"
+  },
+  "die Aktion": {
+    "female": "/audio/words/female/40c84ec22c366a07.mp3",
+    "male": "/audio/words/male/40c84ec22c366a07.mp3"
+  },
+  "die Bewerbung": {
+    "female": "/audio/words/female/3c2ce9747c073988.mp3",
+    "male": "/audio/words/male/3c2ce9747c073988.mp3"
+  },
+  "die Entscheidung": {
+    "female": "/audio/words/female/f295668cf605014c.mp3",
+    "male": "/audio/words/male/f295668cf605014c.mp3"
+  },
+  "die Erfahrung": {
+    "female": "/audio/words/female/217e3171d284d94a.mp3",
+    "male": "/audio/words/male/217e3171d284d94a.mp3"
+  },
+  "die Erinnerung": {
+    "female": "/audio/words/female/d82f929578bc5a9a.mp3",
+    "male": "/audio/words/male/d82f929578bc5a9a.mp3"
+  },
+  "die Form": {
+    "female": "/audio/words/female/2a08ad2ec67e8e48.mp3",
+    "male": "/audio/words/male/2a08ad2ec67e8e48.mp3"
+  },
+  "die Frage": {
+    "female": "/audio/words/female/f76e7daf55a9f1d0.mp3",
+    "male": "/audio/words/male/f76e7daf55a9f1d0.mp3"
+  },
+  "die Idee": {
+    "female": "/audio/words/female/ea2f5b4f5a9bfe72.mp3",
+    "male": "/audio/words/male/ea2f5b4f5a9bfe72.mp3"
+  },
+  "die Liste": {
+    "female": "/audio/words/female/1375efebb5bef118.mp3",
+    "male": "/audio/words/male/1375efebb5bef118.mp3"
+  },
+  "die Mode": {
+    "female": "/audio/words/female/f121305ea7206b17.mp3",
+    "male": "/audio/words/male/f121305ea7206b17.mp3"
+  },
+  "die Rolle": {
+    "female": "/audio/words/female/efd868997c02bffd.mp3",
+    "male": "/audio/words/male/efd868997c02bffd.mp3"
+  },
+  "die Seite": {
+    "female": "/audio/words/female/514d126d89986a34.mp3",
+    "male": "/audio/words/male/514d126d89986a34.mp3"
+  },
+  "die Sorge": {
+    "female": "/audio/words/female/6b027aa6cfdbee8d.mp3",
+    "male": "/audio/words/male/6b027aa6cfdbee8d.mp3"
+  },
+  "die Stelle": {
+    "female": "/audio/words/female/0b47e3e32b5a2a70.mp3",
+    "male": "/audio/words/male/0b47e3e32b5a2a70.mp3"
+  },
+  "die Übung": {
+    "female": "/audio/words/female/749d551472c6eea1.mp3",
+    "male": "/audio/words/male/749d551472c6eea1.mp3"
+  },
+  "die Wohnung": {
+    "female": "/audio/words/female/e1a2b7aa04d084d0.mp3",
+    "male": "/audio/words/male/e1a2b7aa04d084d0.mp3"
+  },
+  "ehrlich": {
+    "female": "/audio/words/female/242ae14bf03a0018.mp3",
+    "male": "/audio/words/male/242ae14bf03a0018.mp3"
+  },
+  "einverstanden": {
+    "female": "/audio/words/female/fe04e9989d5bce16.mp3",
+    "male": "/audio/words/male/fe04e9989d5bce16.mp3"
+  },
+  "erfahren": {
+    "female": "/audio/words/female/9ad3fa096f054c28.mp3",
+    "male": "/audio/words/male/9ad3fa096f054c28.mp3"
+  },
+  "feiern": {
+    "female": "/audio/words/female/0184a6574dd63e9c.mp3",
+    "male": "/audio/words/male/0184a6574dd63e9c.mp3"
+  },
+  "frisch": {
+    "female": "/audio/words/female/69e86cae43a127b0.mp3",
+    "male": "/audio/words/male/69e86cae43a127b0.mp3"
+  },
+  "führen": {
+    "female": "/audio/words/female/ac904498f2e9f21d.mp3",
+    "male": "/audio/words/male/ac904498f2e9f21d.mp3"
+  },
+  "gegen": {
+    "female": "/audio/words/female/092e1885c9576d20.mp3",
+    "male": "/audio/words/male/092e1885c9576d20.mp3"
+  },
+  "gehören": {
+    "female": "/audio/words/female/3e2b47651f9f8806.mp3",
+    "male": "/audio/words/male/3e2b47651f9f8806.mp3"
+  },
+  "gestresst": {
+    "female": "/audio/words/female/e295f4780bd91a76.mp3",
+    "male": "/audio/words/male/e295f4780bd91a76.mp3"
+  },
+  "gesund": {
+    "female": "/audio/words/female/35c86777491b25c5.mp3",
+    "male": "/audio/words/male/35c86777491b25c5.mp3"
+  },
+  "gründen": {
+    "female": "/audio/words/female/b5ac81046aad3af9.mp3",
+    "male": "/audio/words/male/b5ac81046aad3af9.mp3"
+  },
+  "halten": {
+    "female": "/audio/words/female/764dc7965f79cf4b.mp3",
+    "male": "/audio/words/male/764dc7965f79cf4b.mp3"
+  },
+  "helfen": {
+    "female": "/audio/words/female/7d00e0f8e43792fd.mp3",
+    "male": "/audio/words/male/7d00e0f8e43792fd.mp3"
+  },
+  "hoffen": {
+    "female": "/audio/words/female/bc25878ccb35a03b.mp3",
+    "male": "/audio/words/male/bc25878ccb35a03b.mp3"
+  },
+  "kommen": {
+    "female": "/audio/words/female/529f00bc62dff975.mp3",
+    "male": "/audio/words/male/529f00bc62dff975.mp3"
+  },
+  "landen": {
+    "female": "/audio/words/female/3dc063f80f8b72f0.mp3",
+    "male": "/audio/words/male/3dc063f80f8b72f0.mp3"
+  },
+  "liegen": {
+    "female": "/audio/words/female/e1e2f4cee6d2d584.mp3",
+    "male": "/audio/words/male/e1e2f4cee6d2d584.mp3"
+  },
+  "machen": {
+    "female": "/audio/words/female/8740c3f7ac25c887.mp3",
+    "male": "/audio/words/male/8740c3f7ac25c887.mp3"
+  },
+  "merken": {
+    "female": "/audio/words/female/9374ca4cb8941b2e.mp3",
+    "male": "/audio/words/male/9374ca4cb8941b2e.mp3"
+  },
+  "nervös": {
+    "female": "/audio/words/female/b1b3f26e7fff0c0e.mp3",
+    "male": "/audio/words/male/b1b3f26e7fff0c0e.mp3"
+  },
+  "offen": {
+    "female": "/audio/words/female/9a80891df52590c2.mp3",
+    "male": "/audio/words/male/9a80891df52590c2.mp3"
+  },
+  "öffentlich": {
+    "female": "/audio/words/female/37f5af416fd24a23.mp3",
+    "male": "/audio/words/male/37f5af416fd24a23.mp3"
+  },
+  "praktisch": {
+    "female": "/audio/words/female/644039d078a71ca9.mp3",
+    "male": "/audio/words/male/644039d078a71ca9.mp3"
+  },
+  "raten": {
+    "female": "/audio/words/female/89df3ccba905f3c5.mp3",
+    "male": "/audio/words/male/89df3ccba905f3c5.mp3"
+  },
+  "ruhig": {
+    "female": "/audio/words/female/d29898d82af92955.mp3",
+    "male": "/audio/words/male/d29898d82af92955.mp3"
+  },
+  "sammeln": {
+    "female": "/audio/words/female/b5f9036d932291cb.mp3",
+    "male": "/audio/words/male/b5f9036d932291cb.mp3"
+  },
+  "schaffen": {
+    "female": "/audio/words/female/7a8bbbf5af6cff61.mp3",
+    "male": "/audio/words/male/7a8bbbf5af6cff61.mp3"
+  },
+  "scharf": {
+    "female": "/audio/words/female/c65b733137d39a4a.mp3",
+    "male": "/audio/words/male/c65b733137d39a4a.mp3"
+  },
+  "schließen": {
+    "female": "/audio/words/female/e0b9f083fdafd839.mp3",
+    "male": "/audio/words/male/e0b9f083fdafd839.mp3"
+  },
+  "schrecklich": {
+    "female": "/audio/words/female/ab8c1573180aa86d.mp3",
+    "male": "/audio/words/male/ab8c1573180aa86d.mp3"
+  },
+  "schütten": {
+    "female": "/audio/words/female/d88f03da0db36546.mp3",
+    "male": "/audio/words/male/d88f03da0db36546.mp3"
+  },
+  "schwer": {
+    "female": "/audio/words/female/c3c27bacd0e0b53f.mp3",
+    "male": "/audio/words/male/c3c27bacd0e0b53f.mp3"
+  },
+  "seit": {
+    "female": "/audio/words/female/bf49dee46b6bf94b.mp3",
+    "male": "/audio/words/male/bf49dee46b6bf94b.mp3"
+  },
+  "sicher": {
+    "female": "/audio/words/female/bdfccb90bbe91a2b.mp3",
+    "male": "/audio/words/male/bdfccb90bbe91a2b.mp3"
+  },
+  "spielen": {
+    "female": "/audio/words/female/b98ccbb62227b538.mp3",
+    "male": "/audio/words/male/b98ccbb62227b538.mp3"
+  },
+  "stellen": {
+    "female": "/audio/words/female/eda5a835fd21f514.mp3",
+    "male": "/audio/words/male/eda5a835fd21f514.mp3"
+  },
+  "tragen": {
+    "female": "/audio/words/female/7f24e7f24761a4c5.mp3",
+    "male": "/audio/words/male/7f24e7f24761a4c5.mp3"
+  },
+  "treffen": {
+    "female": "/audio/words/female/008679d18064e9c7.mp3",
+    "male": "/audio/words/male/008679d18064e9c7.mp3"
+  },
+  "trotzdem": {
+    "female": "/audio/words/female/8df04599592d48c3.mp3",
+    "male": "/audio/words/male/8df04599592d48c3.mp3"
+  },
+  "um": {
+    "female": "/audio/words/female/289c90decf40c8ec.mp3",
+    "male": "/audio/words/male/289c90decf40c8ec.mp3"
+  },
+  "unbedingt": {
+    "female": "/audio/words/female/ba5e07c6f1263234.mp3",
+    "male": "/audio/words/male/ba5e07c6f1263234.mp3"
+  },
+  "verlieren": {
+    "female": "/audio/words/female/2bc6abff459e1422.mp3",
+    "male": "/audio/words/male/2bc6abff459e1422.mp3"
+  },
+  "verspätet": {
+    "female": "/audio/words/female/259394a0e65d6914.mp3",
+    "male": "/audio/words/male/259394a0e65d6914.mp3"
+  },
+  "versprechen": {
+    "female": "/audio/words/female/19870fe086cf78a7.mp3",
+    "male": "/audio/words/male/19870fe086cf78a7.mp3"
+  },
+  "versuchen": {
+    "female": "/audio/words/female/5fb93abaf138f952.mp3",
+    "male": "/audio/words/male/5fb93abaf138f952.mp3"
+  },
+  "vorbei sein": {
+    "female": "/audio/words/female/25b5045e50a90c52.mp3",
+    "male": "/audio/words/male/25b5045e50a90c52.mp3"
+  },
+  "weg sein": {
+    "female": "/audio/words/female/9ce7f7fde74df726.mp3",
+    "male": "/audio/words/male/9ce7f7fde74df726.mp3"
+  },
+  "weil": {
+    "female": "/audio/words/female/740fc4991133b152.mp3",
+    "male": "/audio/words/male/740fc4991133b152.mp3"
+  },
+  "wenn": {
+    "female": "/audio/words/female/4da271bb37e5a8c6.mp3",
+    "male": "/audio/words/male/4da271bb37e5a8c6.mp3"
+  },
+  "werden": {
+    "female": "/audio/words/female/35487809a6ee83cc.mp3",
+    "male": "/audio/words/male/35487809a6ee83cc.mp3"
+  },
+  "wiederholen": {
+    "female": "/audio/words/female/40da704412ee6dfb.mp3",
+    "male": "/audio/words/male/40da704412ee6dfb.mp3"
+  },
+  "zeigen": {
+    "female": "/audio/words/female/46c96d17bab4baad.mp3",
+    "male": "/audio/words/male/46c96d17bab4baad.mp3"
+  },
+  "zu": {
+    "female": "/audio/words/female/82cefa8283d30fda.mp3",
+    "male": "/audio/words/male/82cefa8283d30fda.mp3"
+  }
+}
